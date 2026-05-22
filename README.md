@@ -1,4 +1,4 @@
-# Olá, eu sou a Pedro! 👋
+# Olá, eu sou o Pedro! 👋
 
 
 ## 🚀 Sobre mim
